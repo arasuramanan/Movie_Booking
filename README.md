@@ -1,4 +1,4 @@
-🚀 [Live preview](https://radiant-figolla-a4542f.netlify.app/users/login) 
+🚀 [Live preview](https://resplendent-capybara-a4fa97.netlify.app/) 
 # Screenshot:
 
 ![bms1](https://github.com/arasuramanan/Movie_Booking/assets/102941390/49f9d794-c395-42dd-9123-efa1e8a33d1f)
