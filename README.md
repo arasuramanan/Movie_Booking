@@ -1,8 +1,12 @@
-# React + Vite
+#Screenshot:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![bms-1](https://github.com/arasuramanan/Movie_Booking/assets/102941390/9d048bb8-f2f2-4194-93f4-10ddbad8eda2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![bms-2](https://github.com/arasuramanan/Movie_Booking/assets/102941390/8ccd5326-7d54-4931-b965-658489789e2a)
+
+![bms-3](https://github.com/arasuramanan/Movie_Booking/assets/102941390/654595e4-bc98-4793-8c21-0d648455b28e)
+
+![bms-4](https://github.com/arasuramanan/Movie_Booking/assets/102941390/e2788ef6-be7b-4c67-bf0e-b1662a77915a)
+
+![bms-5](https://github.com/arasuramanan/Movie_Booking/assets/102941390/a22aa01e-e53e-42f4-892d-c6e01c65cf21)
