@@ -1,11 +1,12 @@
 🚀 [Live preview](https://resplendent-capybara-a4fa97.netlify.app/) 
 # Screenshot:
+![book1](https://github.com/arasuramanan/Movie_Booking/assets/102941390/6d0122e7-7db8-42d9-a98d-f46226f2203f)
 
-![bms1](https://github.com/arasuramanan/Movie_Booking/assets/102941390/49f9d794-c395-42dd-9123-efa1e8a33d1f)
+![book2](https://github.com/arasuramanan/Movie_Booking/assets/102941390/8b7257bb-143e-48e3-bfbb-8bde70819547)
 
-![bms2](https://github.com/arasuramanan/Movie_Booking/assets/102941390/aad1afe3-ef57-46c3-926c-6556e8cf2e81)
+![book3](https://github.com/arasuramanan/Movie_Booking/assets/102941390/0811c60d-74c2-4b15-b08e-9a76e13adce3)
 
-![bms3](https://github.com/arasuramanan/Movie_Booking/assets/102941390/5e0bc056-1eac-4c3a-b606-9bcf3f18d60c)
+![book4](https://github.com/arasuramanan/Movie_Booking/assets/102941390/fa6678e4-dba2-4f1f-8eb6-826795873adb)
 
 
 # About the project:
