@@ -3,7 +3,7 @@
 
 ![bms1](https://github.com/arasuramanan/Movie_Booking/assets/102941390/49f9d794-c395-42dd-9123-efa1e8a33d1f)
 
-![image](https://github.com/arasuramanan/Movie_Booking/assets/102941390/c385aa44-21e3-4b29-9be0-fd3cc0e06150)
+![bms2](https://github.com/arasuramanan/Movie_Booking/assets/102941390/aad1afe3-ef57-46c3-926c-6556e8cf2e81)
 
 ![bms3](https://github.com/arasuramanan/Movie_Booking/assets/102941390/5e0bc056-1eac-4c3a-b606-9bcf3f18d60c)
 
